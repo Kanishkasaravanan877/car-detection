@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['eGara-detect-car - v3 2024-01-03 8-51am']
+
+roboflow:
+  workspace: computer-vision-iqni7
+  project: cia-ii
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/computer-vision-iqni7/cia-ii/dataset/2
