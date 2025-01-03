@@ -63,4 +63,3 @@ Copy code
 yolo task=detect mode=predict model="E:/output/train/weights" source="E:/cars dataset/download (1).jpeg"
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
